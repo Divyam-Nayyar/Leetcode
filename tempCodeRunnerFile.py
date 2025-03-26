@@ -1,2 +1,9 @@
+temp=nums.copy()
+# unique=[]
 
-# print(mi.intersection(set(s[0]))
+# for i in range(len(temp)):
+#     if temp[i] in unique:
+#         nums.pop(i)
+#         nums.insert(i,"_")
+#     else:
+#         unique.append(temp[i])
